@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(stage, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: stage[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mWrote /Users/a1/Documents/JavaProjects/myprjcts/oil-price-parser/target/scala-2.12/oil-price-parser_2.12-0.1.pom[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/a1/Documents/JavaProjects/myprjcts/oil-price-parser/target/scala-2.12/api...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 7 Scala sources to /Users/a1/Documents/JavaProjects/myprjcts/oil-price-parser/target/scala-2.12/classes ...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 4 s, completed Oct 14, 2020, 11:54:45 PM[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m[0J

@@ -1,0 +1,14 @@
+{
+  "app": {
+    "url": "localhost",
+    "port": 8081
+  },
+  "source": {
+    "data-gov-ru": {
+      "access-token": "3fe6c02774d409aa599ad1a9b04bedf5",
+      "json": {
+        "urals": "https://data.gov.ru/api/json/dataset/7710349494-urals/version/20200817T131039/content?access_token="
+      }
+    }
+  }
+}
