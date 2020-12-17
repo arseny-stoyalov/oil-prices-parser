@@ -100,7 +100,7 @@ object PriceService extends LazyLogging {
   def decodeJson[T](json: String)(implicit decoder: Decoder[T]): Option[T] = {
     decode[T](json) match {
       case Left(error) =>
-        logger.debug(s"Got troubles com.company.parsing json data: ${error.getMessage}")
+        logger.debug(s"Got troubles parsing json data: ${error.getMessage}")
         Option.empty[T]
       case Right(parsedDate) => Option(parsedDate)
     }
